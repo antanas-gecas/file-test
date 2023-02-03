@@ -1,0 +1,15 @@
+{
+	"CoreNetworkProfile": {
+	  "ntype": "multi",
+	  "accTypeGSM": "true",
+	  "accTypeGERAN": "true",
+	  "accTypeUTRAN": "true",
+	  "optimalRouting": "false",
+	  "mscat": "10",
+	  "prnRetry": "true",
+	  "sr": "2",
+	  "routingCategory": "",
+	  "generalChargingCharacteristic": "4",
+	  "roamSubscriptionInfo": ""
+	},
+  }
